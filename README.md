@@ -10,13 +10,13 @@ The purpose of the database is mainly to provide data support for the correlatio
 
 Synchronously acquired Total internal reflection (TIR) and optical coherence tomography (OCT) [2].
 
-![fig3](.\fig3.bmp)
+![fig3](https://github.com/ZJUT-ERCISS-home/ZJUT-EIFD/blob/main/fig3.bmp)
 
 ## OCT fingerprint reconstruction method
 
 BCL-U Net [3]
 
-![fig4](.\fig4.png)
+![fig4](https://github.com/ZJUT-ERCISS-home/ZJUT-EIFD/blob/main/fig4.png)
 
 ## The protocol
 
