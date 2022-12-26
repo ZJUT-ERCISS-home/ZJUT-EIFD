@@ -36,7 +36,7 @@ The quality and pattern clarity of an OCT fingerprint is directly related to the
 
 ## The protocol
 
-call for protocol and get the database via email hxwang@zjut.edu.cn
+A portion of the data is shown in the ZJUT-EIFD folder. Call for protocol and get the complete database via email hxwang@zjut.edu.cn
 
 ## reference
 
