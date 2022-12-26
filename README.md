@@ -10,13 +10,29 @@ The purpose of the database is mainly to provide data support for the correlatio
 
 Synchronously acquired Total internal reflection (TIR) and optical coherence tomography (OCT) [2].
 
-![fig3](https://github.com/ZJUT-ERCISS-home/ZJUT-EIFD/blob/main/fig3.bmp)
+![fig2-a](https://github.com/ZJUT-ERCISS-home/ZJUT-EIFD/blob/main/fig/Fig2(a).png)
+
+![fig2-b](https://github.com/ZJUT-ERCISS-home/ZJUT-EIFD/blob/main/fig/Fig2(b).png)
+
+## Source data
+
+The source data collected by our synchronization device in each measurement includes a grayscale image of TIR and a series of grayscale B-scan images of OCT.
+
+![fig3](https://github.com/ZJUT-ERCISS-home/ZJUT-EIFD/blob/main/fig/fig3.bmp)
 
 ## OCT fingerprint reconstruction method
 
-BCL-U Net [3]
+The quality and pattern clarity of an OCT fingerprint is directly related to the OCT fingerprint reconstruction method used. To ensure that the reconstruction method has minimal impact on EF-IF correlation studies, the current state of the art contour extraction method BCL-U Net [3] is used in fingerprint construction.
 
-![fig4](https://github.com/ZJUT-ERCISS-home/ZJUT-EIFD/blob/main/fig4.png)
+![fig4](https://github.com/ZJUT-ERCISS-home/ZJUT-EIFD/blob/main/fig/fig4.png)
+
+## The collection and storage detail of database
+
+![table1](https://github.com/ZJUT-ERCISS-home/ZJUT-EIFD/blob/main/fig/table1.png)
+
+![table2](https://github.com/ZJUT-ERCISS-home/ZJUT-EIFD/blob/main/fig/table2.png)
+
+![fig22](https://github.com/ZJUT-ERCISS-home/ZJUT-EIFD/blob/main/fig/fig22.png)
 
 ## The protocol
 
